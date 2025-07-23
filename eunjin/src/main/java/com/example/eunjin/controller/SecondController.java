@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class SecondController {
 
     @GetMapping("/random-quote")
-    public String randomQutoe(Model model){
+    public String randomQuotee(Model model){
         String[] quotes = {
                 "행복은 습관이다. 그것을 몸에 지니라." + "-하버드-",
                 "고개 숙이지 마십시오. 세상을 똑바로 정면으로" + "-헬렌 켈러-",
