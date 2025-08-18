@@ -8,7 +8,7 @@ public class HyejuApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HyejuApplication.class, args);
-		System.out.println("Hello, Hyeju!");
+		System.out.println("Successful Project");
 	}
 
 }
